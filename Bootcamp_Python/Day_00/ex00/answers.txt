@@ -1,0 +1,5 @@
+pip freeze
+pip list
+pip show numpy
+pip search pypi | grep "tesseract"
+pip freeze > requirements.txt
